@@ -28,3 +28,8 @@
 <br> Escreva um algoritmo que leia 2 valores inteiros A e B.
 <br> Calcule a soma dos números que não são múltiplos de 13 entre A e B, incluindo ambos.
 <br>
+
+<h1> Desafio 4 - Domino </h1>
+<br> Escrever um programa que, dado o valor N, use esta fórmula ((N+1)*(N+2))/2 para calcular e imprimir quantas peças existem num jogo de dominó do tipo duplo-N.
+<br> O tradicional jogo de dominó possui 28 peças, sendo que cada peça está dividida em dois quadrados e dentro de cada quadrado há entre 0 e 6 círculos. 
+<br> O jogo é chamado também de duplo-6 porque esse é o maior número de círculos que aparece num quadrado de uma peça.
